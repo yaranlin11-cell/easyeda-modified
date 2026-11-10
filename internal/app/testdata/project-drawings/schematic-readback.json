@@ -1,0 +1,11 @@
+{
+  "createdAt": "2026-01-01T00:00:00Z",
+  "context": {
+    "projectUuid": "synthetic-project",
+    "documentUuid": "synthetic-schematic"
+  },
+  "result": {
+    "components": [],
+    "wires": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "capture": {
+    "projectUuid": "synthetic-project",
+    "documentUuid": "synthetic-pcb",
+    "identityVerified": true,
+    "startedAt": "2026-01-01T00:00:00Z",
+    "completedAt": "2026-01-01T00:00:00Z"
+  },
+  "sha256": "9622e78b6781241a151d5d5d3914db72652de01a0cceb50306795f885b06d0cf",
+  "imageValid": true
+}

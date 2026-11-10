@@ -1,0 +1,107 @@
+{
+  "components": [
+    {
+      "primitiveId": "A1",
+      "designator": "A1",
+      "name": "synthetic",
+      "layer": 1,
+      "x": 0,
+      "y": 0,
+      "rotation": 0,
+      "locked": false,
+      "bbox": {
+        "minX": -10,
+        "minY": -10,
+        "maxX": 10,
+        "maxY": 10
+      },
+      "pads": [
+        {
+          "primitiveId": "A1-p1",
+          "padNumber": "1",
+          "net": "NET_A",
+          "layer": 1,
+          "x": 0,
+          "y": 0,
+          "width": 20,
+          "height": 20,
+          "rotation": 0,
+          "padType": 0,
+          "shape": [
+            "RECT",
+            20,
+            20,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "primitiveId": "B1",
+      "designator": "B1",
+      "name": "synthetic",
+      "layer": 2,
+      "x": 18,
+      "y": 18,
+      "rotation": 0,
+      "locked": false,
+      "bbox": {
+        "minX": 8,
+        "minY": 8,
+        "maxX": 28,
+        "maxY": 28
+      },
+      "pads": [
+        {
+          "primitiveId": "B1-p1",
+          "padNumber": "1",
+          "net": "NET_B",
+          "layer": 12,
+          "x": 18,
+          "y": 18,
+          "width": 20,
+          "height": 20,
+          "rotation": 0,
+          "padType": 0,
+          "shape": [
+            "RECT",
+            20,
+            20,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "bbox": {
+      "minX": -100,
+      "minY": -100,
+      "maxX": 100,
+      "maxY": 100
+    },
+    "points": [
+      [
+        -100,
+        -100
+      ],
+      [
+        100,
+        -100
+      ],
+      [
+        100,
+        100
+      ],
+      [
+        -100,
+        100
+      ]
+    ],
+    "source": "polygon"
+  },
+  "copperLayers": 2,
+  "rules": {
+    "clearanceMil": 6
+  }
+}

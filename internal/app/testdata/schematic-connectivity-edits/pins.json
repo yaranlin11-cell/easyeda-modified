@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "pins": [
+    {"componentId":"stable-U1","ref":"U1","pinNumber":"1","pinName":"VDD","before":{"net":"","noConnected":true},"after":{"net":"+3V3","noConnected":false}},
+    {"componentId":"stable-U1","ref":"U1","pinNumber":"2","pinName":"GND","before":{"net":"OLD_GND","noConnected":false},"after":{"net":"GND","noConnected":false}},
+    {"componentId":"stable-U1","ref":"U1","pinNumber":"3","pinName":"RESERVED","before":{"net":"","noConnected":false},"after":{"net":"","noConnected":true}}
+  ]
+}

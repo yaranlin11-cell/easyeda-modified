@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "title": "Synthetic drawing handoff",
+  "revision": "r1",
+  "projectUuid": "synthetic-project",
+  "schematicDocumentUuid": "synthetic-schematic",
+  "pcbDocumentUuid": "synthetic-pcb",
+  "readbacks": {
+    "schematic": {
+      "path": "schematic-readback.json",
+      "sha256": "cc8e5fc404a261ffe61963b057286e06fa33e291424595a1b36161e47ff6b4d6",
+      "projectUuidPointer": "/context/projectUuid",
+      "documentUuidPointer": "/context/documentUuid",
+      "capturedAtPointer": "/createdAt"
+    },
+    "pcb": {
+      "path": "board.json",
+      "sha256": "e6bb8be7ea6b1c478623879186668dcc826cb4ffee1df0191f6a6852131ebead",
+      "projectUuidPointer": "/capture/projectUuid",
+      "documentUuidPointer": "/capture/documentUuid",
+      "capturedAtPointer": "/capturedAt"
+    }
+  },
+  "artifacts": [
+    {
+      "role": "schematic-svg",
+      "path": "schematic.svg",
+      "sha256": "363595cba84bb530201104b88452f434fe669e7c317cceca7457ce7530390280"
+    },
+    {
+      "role": "schematic-png",
+      "path": "synthetic.png",
+      "sha256": "9622e78b6781241a151d5d5d3914db72652de01a0cceb50306795f885b06d0cf"
+    },
+    {
+      "role": "pcb-official-top-png",
+      "path": "synthetic.png",
+      "sha256": "9622e78b6781241a151d5d5d3914db72652de01a0cceb50306795f885b06d0cf",
+      "evidence": {
+        "path": "top-capture.json",
+        "sha256": "7551cc8d51cf29b34f5538ff6b9cc3ef5a6fb7755ce06020ff7e8f1781e92f29",
+        "projectUuidPointer": "/capture/projectUuid",
+        "documentUuidPointer": "/capture/documentUuid",
+        "capturedAtPointer": "/capture/completedAt",
+        "artifactSha256Pointer": "/sha256"
+      }
+    },
+    {
+      "role": "pcb-actual-top-svg",
+      "path": "actual-top.svg",
+      "sha256": "c688bc0a17659d1187276071063555e7e3a9088801fdac16db4e516d0b484f8d"
+    },
+    {
+      "role": "pcb-official-bottom-png",
+      "path": "synthetic.png",
+      "sha256": "9622e78b6781241a151d5d5d3914db72652de01a0cceb50306795f885b06d0cf",
+      "evidence": {
+        "path": "bottom-capture.json",
+        "sha256": "7551cc8d51cf29b34f5538ff6b9cc3ef5a6fb7755ce06020ff7e8f1781e92f29",
+        "projectUuidPointer": "/capture/projectUuid",
+        "documentUuidPointer": "/capture/documentUuid",
+        "capturedAtPointer": "/capture/completedAt",
+        "artifactSha256Pointer": "/sha256"
+      }
+    },
+    {
+      "role": "pcb-actual-bottom-svg",
+      "path": "actual-bottom.svg",
+      "sha256": "8c6580a1b3c1898fe0ac749b537162e429dfe9526f2f37f4bddf3090b5c1200e"
+    }
+  ],
+  "status": {
+    "layout": "candidate",
+    "routing": "unrouted",
+    "drcPassed": false,
+    "designAccepted": false,
+    "unresolved": [
+      "Synthetic clearance issue retained."
+    ]
+  }
+}

@@ -1,0 +1,1080 @@
+{
+"components": [
+{
+"componentType": "part",
+"designator": "U1",
+"x": 190,
+"y": 505,
+"pins": [
+{
+"pinNumber": "2",
+"net": "3V3",
+"noConnected": false,
+"x": 145,
+"y": 520
+},
+{
+"pinNumber": "3",
+"net": "EN",
+"noConnected": false,
+"x": 145,
+"y": 510
+},
+{
+"pinNumber": "36",
+"net": "U0RXD",
+"noConnected": false,
+"x": 145,
+"y": 500
+},
+{
+"pinNumber": "37",
+"net": "U0TXD",
+"noConnected": false,
+"x": 145,
+"y": 490
+},
+{
+"pinNumber": "41",
+"net": "GND",
+"noConnected": false,
+"x": 235,
+"y": 305
+},
+{
+"pinNumber": "40",
+"net": "GND",
+"noConnected": false,
+"x": 235,
+"y": 335
+},
+{
+"pinNumber": "1",
+"net": "GND",
+"noConnected": false,
+"x": 235,
+"y": 345
+},
+{
+"pinNumber": "25",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 375
+},
+{
+"pinNumber": "24",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 385
+},
+{
+"pinNumber": "16",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 395
+},
+{
+"pinNumber": "26",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 405
+},
+{
+"pinNumber": "35",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 415
+},
+{
+"pinNumber": "34",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 425
+},
+{
+"pinNumber": "33",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 435
+},
+{
+"pinNumber": "32",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 445
+},
+{
+"pinNumber": "31",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 455
+},
+{
+"pinNumber": "30",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 465
+},
+{
+"pinNumber": "29",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 475
+},
+{
+"pinNumber": "28",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 485
+},
+{
+"pinNumber": "23",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 495
+},
+{
+"pinNumber": "14",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 505
+},
+{
+"pinNumber": "13",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 515
+},
+{
+"pinNumber": "11",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 525
+},
+{
+"pinNumber": "10",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 535
+},
+{
+"pinNumber": "9",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 545
+},
+{
+"pinNumber": "8",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 555
+},
+{
+"pinNumber": "22",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 565
+},
+{
+"pinNumber": "21",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 575
+},
+{
+"pinNumber": "20",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 585
+},
+{
+"pinNumber": "19",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 595
+},
+{
+"pinNumber": "18",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 605
+},
+{
+"pinNumber": "17",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 615
+},
+{
+"pinNumber": "12",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 625
+},
+{
+"pinNumber": "7",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 635
+},
+{
+"pinNumber": "6",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 645
+},
+{
+"pinNumber": "5",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 655
+},
+{
+"pinNumber": "4",
+"net": "LED_CTRL",
+"noConnected": false,
+"x": 235,
+"y": 665
+},
+{
+"pinNumber": "15",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 675
+},
+{
+"pinNumber": "38",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 685
+},
+{
+"pinNumber": "39",
+"net": "",
+"noConnected": true,
+"x": 235,
+"y": 695
+},
+{
+"pinNumber": "27",
+"net": "IO0",
+"noConnected": false,
+"x": 235,
+"y": 705
+}
+]
+},
+{
+"componentType": "part",
+"designator": "C2",
+"x": 125,
+"y": 595,
+"pins": [
+{
+"pinNumber": "1",
+"net": "EN",
+"noConnected": false,
+"x": 125,
+"y": 575
+},
+{
+"pinNumber": "2",
+"net": "GND",
+"noConnected": false,
+"x": 125,
+"y": 615
+}
+]
+},
+{
+"componentType": "part",
+"designator": "C3",
+"x": 125,
+"y": 540,
+"pins": [
+{
+"pinNumber": "2",
+"net": "GND",
+"noConnected": false,
+"x": 125,
+"y": 560
+},
+{
+"pinNumber": "1",
+"net": "3V3",
+"noConnected": false,
+"x": 125,
+"y": 520
+}
+]
+},
+{
+"componentType": "part",
+"designator": "R1",
+"x": 115,
+"y": 500,
+"pins": [
+{
+"pinNumber": "2",
+"net": "3V3",
+"noConnected": false,
+"x": 115,
+"y": 520
+},
+{
+"pinNumber": "1",
+"net": "EN",
+"noConnected": false,
+"x": 115,
+"y": 480
+}
+]
+},
+{
+"componentType": "part",
+"designator": "R2",
+"x": 245,
+"y": 725,
+"pins": [
+{
+"pinNumber": "2",
+"net": "3V3",
+"noConnected": false,
+"x": 245,
+"y": 745
+},
+{
+"pinNumber": "1",
+"net": "IO0",
+"noConnected": false,
+"x": 245,
+"y": 705
+}
+]
+},
+{
+"componentType": "part",
+"designator": "C1",
+"x": 85,
+"y": 540,
+"pins": [
+{
+"pinNumber": "1",
+"net": "3V3",
+"noConnected": false,
+"x": 85,
+"y": 520
+},
+{
+"pinNumber": "2",
+"net": "GND",
+"noConnected": false,
+"x": 85,
+"y": 560
+}
+]
+},
+{
+"componentType": "part",
+"designator": "LED1",
+"x": 500,
+"y": 700,
+"pins": [
+{
+"pinNumber": "2",
+"net": "GND",
+"noConnected": false,
+"x": 480,
+"y": 700
+},
+{
+"pinNumber": "1",
+"net": "LED1_N2",
+"noConnected": false,
+"x": 520,
+"y": 700
+}
+]
+},
+{
+"componentType": "part",
+"designator": "R3",
+"x": 505,
+"y": 670,
+"pins": [
+{
+"pinNumber": "2",
+"net": "LED1_N2",
+"noConnected": false,
+"x": 525,
+"y": 670
+},
+{
+"pinNumber": "1",
+"net": "LED_CTRL",
+"noConnected": false,
+"x": 485,
+"y": 670
+}
+]
+},
+{
+"componentType": "part",
+"designator": "J1",
+"x": 630,
+"y": 740,
+"pins": [
+{
+"pinNumber": "1",
+"net": "3V3",
+"noConnected": false,
+"x": 610,
+"y": 740
+},
+{
+"pinNumber": "2",
+"net": "GND",
+"noConnected": false,
+"x": 610,
+"y": 730
+}
+]
+},
+{
+"componentType": "part",
+"designator": "J2",
+"x": 875,
+"y": 760,
+"pins": [
+{
+"pinNumber": "1",
+"net": "U0TXD",
+"noConnected": false,
+"x": 855,
+"y": 775
+},
+{
+"pinNumber": "2",
+"net": "U0RXD",
+"noConnected": false,
+"x": 855,
+"y": 765
+},
+{
+"pinNumber": "3",
+"net": "EN",
+"noConnected": false,
+"x": 855,
+"y": 755
+},
+{
+"pinNumber": "4",
+"net": "IO0",
+"noConnected": false,
+"x": 855,
+"y": 745
+}
+]
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 245,
+"y": 755,
+"net": "3V3"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 90,
+"y": 505,
+"net": "3V3"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 605,
+"y": 755,
+"net": "3V3"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 255,
+"y": 700,
+"net": "IO0"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 245,
+"y": 665,
+"net": "LED_CTRL"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 85,
+"y": 570,
+"net": "EN"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 135,
+"y": 485,
+"net": "U0RXD"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 110,
+"y": 470,
+"net": "U0TXD"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 525,
+"y": 710,
+"net": "LED1_N2"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 475,
+"y": 670,
+"net": "LED_CTRL"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 845,
+"y": 775,
+"net": "U0TXD"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 770,
+"y": 765,
+"net": "U0RXD"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 845,
+"y": 755,
+"net": "EN"
+},
+{
+"componentType": "netport",
+"designator": "",
+"x": 785,
+"y": 745,
+"net": "IO0"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 125,
+"y": 625,
+"net": "GND"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 100,
+"y": 575,
+"net": "GND"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 260,
+"y": 310,
+"net": "GND"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 455,
+"y": 700,
+"net": "GND"
+},
+{
+"componentType": "netflag",
+"designator": "",
+"x": 585,
+"y": 730,
+"net": "GND"
+}
+],
+"wires": [
+{
+"x0": 240,
+"y0": 345,
+"x1": 235,
+"y1": 345,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 345,
+"x1": 240,
+"y1": 335,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 335,
+"x1": 235,
+"y1": 335,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 335,
+"x1": 240,
+"y1": 310,
+"net": ""
+},
+{
+"x0": 260,
+"y0": 310,
+"x1": 240,
+"y1": 310,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 305,
+"x1": 240,
+"y1": 310,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 305,
+"x1": 235,
+"y1": 305,
+"net": ""
+},
+{
+"x0": 85,
+"y0": 565,
+"x1": 85,
+"y1": 560,
+"net": ""
+},
+{
+"x0": 85,
+"y0": 565,
+"x1": 100,
+"y1": 565,
+"net": ""
+},
+{
+"x0": 100,
+"y0": 575,
+"x1": 100,
+"y1": 565,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 565,
+"x1": 100,
+"y1": 565,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 565,
+"x1": 125,
+"y1": 560,
+"net": ""
+},
+{
+"x0": 120,
+"y0": 515,
+"x1": 120,
+"y1": 525,
+"net": ""
+},
+{
+"x0": 120,
+"y0": 525,
+"x1": 115,
+"y1": 525,
+"net": ""
+},
+{
+"x0": 115,
+"y0": 525,
+"x1": 115,
+"y1": 520,
+"net": ""
+},
+{
+"x0": 100,
+"y0": 525,
+"x1": 115,
+"y1": 525,
+"net": ""
+},
+{
+"x0": 100,
+"y0": 525,
+"x1": 100,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 100,
+"y0": 515,
+"x1": 90,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 90,
+"y0": 505,
+"x1": 90,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 85,
+"y0": 515,
+"x1": 90,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 85,
+"y0": 520,
+"x1": 85,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 515,
+"x1": 120,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 520,
+"x1": 125,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 140,
+"y0": 515,
+"x1": 125,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 140,
+"y0": 520,
+"x1": 140,
+"y1": 515,
+"net": ""
+},
+{
+"x0": 145,
+"y0": 520,
+"x1": 140,
+"y1": 520,
+"net": ""
+},
+{
+"x0": 245,
+"y0": 700,
+"x1": 245,
+"y1": 705,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 700,
+"x1": 245,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 240,
+"y0": 705,
+"x1": 240,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 235,
+"y0": 705,
+"x1": 240,
+"y1": 705,
+"net": ""
+},
+{
+"x0": 255,
+"y0": 700,
+"x1": 245,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 115,
+"y0": 455,
+"x1": 115,
+"y1": 480,
+"net": ""
+},
+{
+"x0": 120,
+"y0": 455,
+"x1": 115,
+"y1": 455,
+"net": ""
+},
+{
+"x0": 120,
+"y0": 510,
+"x1": 120,
+"y1": 455,
+"net": ""
+},
+{
+"x0": 120,
+"y0": 510,
+"x1": 135,
+"y1": 510,
+"net": ""
+},
+{
+"x0": 135,
+"y0": 510,
+"x1": 135,
+"y1": 570,
+"net": ""
+},
+{
+"x0": 135,
+"y0": 570,
+"x1": 125,
+"y1": 570,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 570,
+"x1": 125,
+"y1": 575,
+"net": ""
+},
+{
+"x0": 85,
+"y0": 570,
+"x1": 125,
+"y1": 570,
+"net": ""
+},
+{
+"x0": 145,
+"y0": 510,
+"x1": 135,
+"y1": 510,
+"net": ""
+},
+{
+"x0": 135,
+"y0": 500,
+"x1": 145,
+"y1": 500,
+"net": ""
+},
+{
+"x0": 135,
+"y0": 500,
+"x1": 135,
+"y1": 485,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 490,
+"x1": 145,
+"y1": 490,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 470,
+"x1": 125,
+"y1": 490,
+"net": ""
+},
+{
+"x0": 110,
+"y0": 470,
+"x1": 125,
+"y1": 470,
+"net": ""
+},
+{
+"x0": 530,
+"y0": 670,
+"x1": 525,
+"y1": 670,
+"net": ""
+},
+{
+"x0": 530,
+"y0": 700,
+"x1": 530,
+"y1": 670,
+"net": ""
+},
+{
+"x0": 530,
+"y0": 700,
+"x1": 525,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 525,
+"y0": 710,
+"x1": 525,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 520,
+"y0": 700,
+"x1": 525,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 605,
+"y0": 740,
+"x1": 610,
+"y1": 740,
+"net": ""
+},
+{
+"x0": 605,
+"y0": 740,
+"x1": 605,
+"y1": 755,
+"net": ""
+},
+{
+"x0": 245,
+"y0": 755,
+"x1": 245,
+"y1": 745,
+"net": ""
+},
+{
+"x0": 245,
+"y0": 665,
+"x1": 235,
+"y1": 665,
+"net": ""
+},
+{
+"x0": 125,
+"y0": 625,
+"x1": 125,
+"y1": 615,
+"net": ""
+},
+{
+"x0": 455,
+"y0": 700,
+"x1": 480,
+"y1": 700,
+"net": ""
+},
+{
+"x0": 475,
+"y0": 670,
+"x1": 485,
+"y1": 670,
+"net": ""
+},
+{
+"x0": 585,
+"y0": 730,
+"x1": 610,
+"y1": 730,
+"net": ""
+},
+{
+"x0": 845,
+"y0": 775,
+"x1": 855,
+"y1": 775,
+"net": ""
+},
+{
+"x0": 770,
+"y0": 765,
+"x1": 855,
+"y1": 765,
+"net": ""
+},
+{
+"x0": 845,
+"y0": 755,
+"x1": 855,
+"y1": 755,
+"net": ""
+},
+{
+"x0": 785,
+"y0": 745,
+"x1": 855,
+"y1": 745,
+"net": ""
+}
+]
+}

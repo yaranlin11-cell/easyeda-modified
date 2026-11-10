@@ -1,0 +1,20 @@
+{
+  "capturedAt": "2026-01-01T00:00:00Z",
+  "capture": {
+    "projectUuid": "synthetic-project",
+    "documentUuid": "synthetic-pcb",
+    "identityVerified": true,
+    "startedAt": "2026-01-01T00:00:00Z",
+    "completedAt": "2026-01-01T00:00:00Z"
+  },
+  "components": [],
+  "outline": {
+    "minX": 100,
+    "minY": 200,
+    "maxX": 1100,
+    "maxY": 2200
+  },
+  "silk": [],
+  "routedLines": 0,
+  "partial": []
+}
